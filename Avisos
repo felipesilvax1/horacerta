@@ -1,0 +1,3 @@
+*Script para sincronizar a hora em sistemas Debian-like 
+*não se esqueça de alterar as permissões do script (chmod +x)
+*Script for sync time on Debian-like distros
